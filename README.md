@@ -1,7 +1,3 @@
-Elbette! İşte README dosyasının İngilizce çevirisi:
-
----
-
 # Simple Reminder App
 
 This Flutter application allows users to create reminders and receive notifications at the specified time and date. The main screen displays a list of reminders, and users can add new reminders.
